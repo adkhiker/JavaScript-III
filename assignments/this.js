@@ -43,6 +43,7 @@ const chineseFood = new placeOrder("Kung Poo");
 
 chineseFood.food();
 pepperoniPizza.food();
+
 // Principle 4
 // code example for Explicit Binding
 function Mult(num1, num2) {
